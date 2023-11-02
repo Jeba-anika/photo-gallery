@@ -1,1 +1,2 @@
 - Image Gallery using React JS
+- Tailwind CSS is used for styling
